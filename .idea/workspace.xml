@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4c7ba18-7a6e-456c-97e4-55b99d9705e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/srh/holtil/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/srh/holtil/MySQLConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Activity Diagram.drawio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Activity Diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/country-list.csv" afterDir="false" />
-    </list>
+    <list default="true" id="a4c7ba18-7a6e-456c-97e4-55b99d9705e0" name="Changes" comment="TODOS eingefügt und zum Teil abgearbeitet" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +84,19 @@
       <option name="presentableId" value="Default" />
       <updated>1705497245200</updated>
     </task>
+    <task id="LOCAL-00001" summary="TODOS eingefügt und zum Teil abgearbeitet">
+      <option name="closed" value="true" />
+      <created>1705504570176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705504570176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TODOS eingefügt und zum Teil abgearbeitet" />
+    <option name="LAST_COMMIT_MESSAGE" value="TODOS eingefügt und zum Teil abgearbeitet" />
   </component>
 </project>
